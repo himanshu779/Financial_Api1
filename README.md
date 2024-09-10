@@ -1,3 +1,3 @@
-node version - v18.17.0
+node version - v21.7.1
 
 start --> npm run dev
